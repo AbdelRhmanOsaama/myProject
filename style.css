@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+}
+
+header {
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    padding: 100PX;
+    margin: 100PX;
+}
+header p{
+    padding-top: 30px;
+}
+
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.first img{
+    width: 590px;
+    height: 411px;
+}
+
+.first h3{
+    font-size: 25px;
+    margin-top: 10px;
+}
+.first p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.second{
+    display: flex;
+    margin-top: 25px;
+    align-items: center;
+    justify-content: space-around;
+}
+.second img{
+    width: 590px;
+    height: 411px;
+}
+.second p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.second h3{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.more {
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+    align-items: center;
+}
+.information{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+    background-color: lightgray;
+}
+.article{
+    width: 590px;
+    height: 411px;
+    font-size: 30px;
+}
+.option {
+    font-size: 22px;
+}
+.optionF{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.instagram{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+.header h1 {
+    padding: 50px;
+    margin: 50px;
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+}
+
+footer{
+    margin-top: 60px;
+    text-align: center;
+    align-items: center;
+    background-color: lightgray;
+    height: 411px;
+}
+.sub {
+    padding: 45px;
+}
+input{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+.click{
+    margin-top: 20px;
+    font-size: 20px;
+    color: aliceblue;
+}
+button{
+    background-color: black;
+    font-size: 22px;
+    color: white;
+    border-radius: 10%;
+}
+
+#images{
+    display: flex;
+    align-items: center; text-align: center; justify-content: center;
+    margin-top: 15px;
+}
